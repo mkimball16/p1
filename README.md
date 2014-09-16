@@ -1,7 +1,7 @@
 # P1
 
 ## Live URL:
-git@github.com:mkimball16/p1.git
+http://mackenziek.me/p1/
 
 ## Description of the project: 
 A portfolio to present all the projects you'll complete in this course.
