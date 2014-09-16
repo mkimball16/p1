@@ -9,7 +9,7 @@
 <body>
 <h1>MacKenzie Kimball<br />
 Dynamic Web Applications</h1>
-<img src="images/me.jpg" alt="MacKenzie" width="400">
+<img src="images/me.JPG" alt="MacKenzie" width="400">
 <h2>Projects</h2>
 <p><strong>Project 2</strong><br />
 View: [link] Github: [link] </p>
