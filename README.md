@@ -1,7 +1,7 @@
 # P1
 
 ## Live URL:
-http://mackenziek.me/p1/
+http://p1.mackenziek.me/
 
 ## Description of the project: 
 A portfolio to present all the projects I will complete in this course.
