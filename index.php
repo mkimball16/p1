@@ -19,14 +19,14 @@ Dynamic Web Applications</h1>
 <h2>Projects</h2>
 </div>
 <p><strong>Project 2</strong><br />
-<a type="button" class="btn btn-lg btn-info" href="http://p2.mackenziek.me/" target="_blank">Live</a>
-<a type="button" class="btn btn-lg btn-info" href="https://github.com/mkimball16/p2" target=_blank">Github</a></p>
+<a type="button" class="btn btn-lg btn-info" href="http://p2.mackenziek.me/">Live</a>
+<a type="button" class="btn btn-lg btn-info" href="https://github.com/mkimball16/p2">Github</a></p>
 <p><strong>Project 3</strong><br />
-<a type="button" class="btn btn-lg btn-info" href="http://p3.mackenziek.me/" target="_blank">Live</a>
-<a type="button" class="btn btn-lg btn-info" href="https://github.com/mkimball16/p3" target=_blank">Github</a></p>
+<a type="button" class="btn btn-lg btn-info" href="http://p3.mackenziek.me/">Live</a>
+<a type="button" class="btn btn-lg btn-info" href="https://github.com/mkimball16/p3">Github</a></p>
 <p><strong>Project 4</strong><br />
-<a type="button" class="btn btn-lg btn-info" href="http://p4.mackenziek.me/" target="_blank">Live</a>
-<a type="button" class="btn btn-lg btn-info" href="https://github.com/mkimball16/p4" target=_blank">Github</a></p>
+<a type="button" class="btn btn-lg btn-info" href="http://p4.mackenziek.me/">Live</a>
+<a type="button" class="btn btn-lg btn-info" href="https://github.com/mkimball16/p4">Github</a></p>
  <div class="page-header">
 <h2>In 2+ sentences describe who you are and what you do.</h2>
 </div>
