@@ -1,5 +1,6 @@
 h1 	{
 	 text-align: center;
+	 background-color: #A9D0F5;
  	}	
 
 body {
@@ -7,6 +8,7 @@ body {
 		margin-right: 20%;
 		padding: 10px 10px 10px 10px;
 		font-family: sans-serif;
+		background-color: #CEF6EC;
 	}
 	
 img	{

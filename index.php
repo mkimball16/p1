@@ -12,11 +12,11 @@ Dynamic Web Applications</h1>
 <img src="images/me.JPG" alt="MacKenzie" width="400">
 <h2>Projects</h2>
 <p><strong>Project 2</strong><br />
-View: [link] Github: [link] </p>
+View: <a href="http://p2.mackenziek.me/" target="_blank">http://p2.mackenziek.me/ </a> Github: <a href="https://github.com/mkimball16/p2" target="_blank">https://github.com/mkimball16/p2</a> </p>
 <p><strong>Project 3</strong><br />
-View: [link] Github: [link] </p>
+View: <a href="http://p3.mackenziek.me/" target="_blank">http://p3.mackenziek.me/ </a> Github: <a href="https://github.com/mkimball16/p3" target="_blank">https://github.com/mkimball16/p3</a> </p>
 <p><strong>Project 4</strong><br />
-View: [link] Github: [link] </p>
+View: <a href="http://p4.mackenziek.me/" target="_blank">http://p4.mackenziek.me/ </a> Github: <a href="https://github.com/mkimball16/p4" target="_blank">https://github.com/mkimball16/p4</a> </p>
 <h2>In 2+ sentences describe who you are and what you do.</h2>
 <p>Hi! My name is MacKenzie Kimball. I currently work as a Web Editor at <a href="http://www.dana-farber.org/" target="blank">Dana-Farber Cancer Institute</a> here in Boston. I have been in publishing for eight years, mainly on the editorial side of the business. I moved over to the digital side a few years ago with creating and managing blogs, enewsletters, and elearning courses. I am originally from Massachusetts and currently live in South Boston. I went to school at the University of Vermont and graduated with a double degree in English and Psychology.</p>
 <h2>Why are you taking this course?</h2>
