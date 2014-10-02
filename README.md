@@ -1,4 +1,5 @@
 # P1
+[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/mkimball16/p1?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 ## Live URL:
 http://p1.mackenziek.me/
